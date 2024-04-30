@@ -1,0 +1,74 @@
+[15:07:18.128] [INFO   ] thread main starting.
+[15:07:18.134] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[15:07:18.138] [SEVERE ] configuration file was loaded from resources directory.
+[15:07:18.788] [INFO   ] thread dealer starting.
+[15:07:18.788] [INFO   ] thread dealer starting.
+[15:07:18.788] [SEVERE ] updating countdown to 60000
+[15:07:18.795] [INFO   ] thread Thread-0 starting.
+[15:07:18.795] [INFO   ] thread Thread-1 starting.
+[15:07:18.908] [SEVERE ] placing card 32 in slot 0
+[15:07:19.016] [SEVERE ] placing card 70 in slot 1
+[15:07:19.133] [SEVERE ] placing card 45 in slot 2
+[15:07:19.242] [SEVERE ] placing card 69 in slot 3
+[15:07:19.345] [SEVERE ] placing card 48 in slot 4
+[15:07:19.448] [SEVERE ] placing card 38 in slot 5
+[15:07:19.558] [SEVERE ] placing card 17 in slot 6
+[15:07:19.662] [SEVERE ] placing card 63 in slot 7
+[15:07:19.766] [SEVERE ] placing card 72 in slot 8
+[15:07:19.882] [SEVERE ] placing card 78 in slot 9
+[15:07:19.983] [SEVERE ] placing card 14 in slot 10
+[15:07:20.098] [SEVERE ] placing card 52 in slot 11
+[15:07:20.848] [SEVERE ] key 81 was pressed by player 1
+[15:07:20.848] [SEVERE ] player 1 placing token on slot 0
+[15:07:21.100] [SEVERE ] updating countdown to 57688
+[15:07:21.100] [SEVERE ] updating countdown to 57688
+[15:07:21.143] [SEVERE ] key 87 was pressed by player 1
+[15:07:21.143] [SEVERE ] player 1 placing token on slot 1
+[15:07:21.438] [SEVERE ] key 69 was pressed by player 1
+[15:07:21.438] [SEVERE ] player 1 placing token on slot 2
+[15:07:22.107] [SEVERE ] updating countdown to 56681
+[15:07:22.108] [SEVERE ] updating countdown to 56680
+[15:07:22.109] [SEVERE ] setting player 1 freeze to 3000
+[15:07:25.128] [SEVERE ] setting player 1 freeze to 0
+[15:07:26.130] [SEVERE ] updating countdown to 52658
+[15:07:26.130] [SEVERE ] updating countdown to 52658
+[15:07:26.338] [SEVERE ] key 81 was pressed by player 1
+[15:07:26.343] [SEVERE ] removing player 1 token from slot 0
+[15:07:26.781] [SEVERE ] key 87 was pressed by player 1
+[15:07:26.781] [SEVERE ] player 1 placing token on slot 1
+[15:07:27.138] [SEVERE ] updating countdown to 51650
+[15:07:27.138] [SEVERE ] updating countdown to 51650
+[15:07:27.138] [SEVERE ] setting player 1 freeze to 3000
+[15:07:30.141] [SEVERE ] setting player 1 freeze to 0
+[15:07:30.468] [SEVERE ] key 87 was pressed by player 1
+[15:07:30.468] [SEVERE ] removing player 1 token from slot 1
+[15:07:31.066] [SEVERE ] key 69 was pressed by player 1
+[15:07:31.066] [SEVERE ] player 1 placing token on slot 2
+[15:07:31.148] [SEVERE ] updating countdown to 47640
+[15:07:31.148] [SEVERE ] updating countdown to 47640
+[15:07:31.148] [SEVERE ] setting player 1 freeze to 3000
+[15:07:31.649] [SEVERE ] key 69 was pressed by player 1
+[15:07:31.649] [SEVERE ] removing player 1 token from slot 2
+[15:07:31.858] [SEVERE ] key 69 was pressed by player 1
+[15:07:31.866] [SEVERE ] player 1 placing token on slot 2
+[15:07:32.618] [SEVERE ] key 69 was pressed by player 1
+[15:07:33.168] [SEVERE ] key 69 was pressed by player 1
+[15:07:33.648] [SEVERE ] key 69 was pressed by player 1
+[15:07:33.888] [SEVERE ] key 69 was pressed by player 1
+[15:07:34.155] [SEVERE ] setting player 1 freeze to 0
+[15:07:35.163] [SEVERE ] updating countdown to 43625
+[15:07:35.163] [SEVERE ] updating countdown to 43625
+[15:07:35.164] [SEVERE ] setting player 1 freeze to 3000
+[15:07:35.165] [SEVERE ] removing player 1 token from slot 2
+[15:07:35.171] [SEVERE ] key 82 was pressed by player 1
+[15:07:35.172] [SEVERE ] player 1 placing token on slot 3
+[15:07:35.172] [SEVERE ] key 82 was pressed by player 1
+[15:07:37.426] [SEVERE ] key 82 was pressed by player 1
+[15:07:38.178] [SEVERE ] setting player 1 freeze to 0
+[15:07:39.179] [SEVERE ] updating countdown to 39609
+[15:07:39.180] [SEVERE ] updating countdown to 39608
+[15:07:39.180] [SEVERE ] setting player 1 freeze to 3000
+[15:07:39.838] [SEVERE ] exit button pressed
+[15:07:39.838] [SEVERE ] disposing of user interface elements
+[15:07:39.838] [INFO   ] thread Thread-0 terminated.
+[15:07:39.838] [INFO   ] thread Thread-1 terminated.

@@ -1,0 +1,35 @@
+[17:31:16.826] [INFO   ] thread main starting.
+[17:31:16.832] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[17:31:16.835] [SEVERE ] configuration file was loaded from resources directory.
+[17:31:17.193] [INFO   ] thread dealer starting.
+[17:31:17.194] [INFO   ] thread dealer starting.
+[17:31:17.194] [SEVERE ] updating countdown to 60000
+[17:31:17.194] [INFO   ] thread Thread-2 starting.
+[17:31:17.194] [INFO   ] thread Thread-0 starting.
+[17:31:17.194] [INFO   ] thread Thread-1 starting.
+[17:31:17.194] [INFO   ] thread Thread-3 starting.
+[17:31:17.196] [INFO   ] thread computer-2 starting.
+[17:31:17.196] [INFO   ] thread computer-0 starting.
+[17:31:17.196] [INFO   ] thread computer-1 starting.
+[17:31:17.196] [INFO   ] thread computer-3 starting.
+[17:31:17.706] [SEVERE ] updating countdown to 59488
+[17:31:17.718] [INFO   ] thread dealer terminated.
+[17:31:18.410] [SEVERE ] player 2 placing token on slot 1
+[17:31:18.410] [SEVERE ] player 2 placing token on slot 5
+[17:31:18.414] [SEVERE ] removing player 2 token from slot 1
+[17:31:18.414] [SEVERE ] player 4 placing token on slot 7
+[17:31:18.414] [SEVERE ] player 1 placing token on slot 3
+[17:31:18.415] [SEVERE ] player 1 placing token on slot 0
+[17:31:18.416] [SEVERE ] player 1 placing token on slot 9
+[17:31:18.416] [SEVERE ] player 2 placing token on slot 8
+[17:31:18.415] [SEVERE ] player 4 placing token on slot 3
+[17:31:18.415] [SEVERE ] player 3 placing token on slot 8
+[17:31:18.416] [SEVERE ] removing player 2 token from slot 8
+[17:31:18.417] [SEVERE ] player 4 placing token on slot 1
+[17:31:18.417] [SEVERE ] player 3 placing token on slot 9
+[17:31:18.417] [SEVERE ] player 2 placing token on slot 1
+[17:31:18.418] [SEVERE ] player 3 placing token on slot 2
+[17:31:18.418] [SEVERE ] player 2 placing token on slot 11
+[17:31:22.728] [SEVERE ] thanks for playing... it was fun!
+[17:31:22.728] [INFO   ] thread main terminated.
+[17:31:22.729] [SEVERE ] disposing of user interface elements

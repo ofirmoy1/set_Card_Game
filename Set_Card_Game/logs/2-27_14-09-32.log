@@ -1,0 +1,41 @@
+[14:09:32.690] [INFO   ] thread main starting.
+[14:09:32.696] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:09:32.698] [SEVERE ] configuration file was loaded from resources directory.
+[14:09:33.193] [INFO   ] thread dealer starting.
+[14:09:33.193] [INFO   ] thread dealer starting.
+[14:09:33.193] [SEVERE ] updating countdown to 60000
+[14:09:33.196] [INFO   ] thread Thread-0 starting.
+[14:09:33.196] [INFO   ] thread Thread-1 starting.
+[14:09:33.304] [SEVERE ] placing card 78 in slot 0
+[14:09:33.406] [SEVERE ] placing card 56 in slot 1
+[14:09:33.513] [SEVERE ] placing card 54 in slot 2
+[14:09:33.624] [SEVERE ] placing card 30 in slot 3
+[14:09:33.734] [SEVERE ] placing card 53 in slot 4
+[14:09:33.844] [SEVERE ] placing card 17 in slot 5
+[14:09:33.954] [SEVERE ] placing card 13 in slot 6
+[14:09:34.064] [SEVERE ] placing card 66 in slot 7
+[14:09:34.168] [SEVERE ] placing card 31 in slot 8
+[14:09:34.269] [SEVERE ] placing card 21 in slot 9
+[14:09:34.370] [SEVERE ] placing card 15 in slot 10
+[14:09:34.478] [SEVERE ] placing card 77 in slot 11
+[14:09:35.483] [SEVERE ] updating countdown to 57710
+[14:09:35.483] [SEVERE ] updating countdown to 57710
+[14:09:36.490] [SEVERE ] updating countdown to 56703
+[14:09:36.490] [SEVERE ] updating countdown to 56703
+[14:09:37.372] [SEVERE ] key 81 was pressed by player 1
+[14:09:37.372] [SEVERE ] player 1 placing token on slot 0
+[14:09:37.497] [SEVERE ] updating countdown to 55696
+[14:09:37.497] [SEVERE ] updating countdown to 55696
+[14:09:38.032] [SEVERE ] key 87 was pressed by player 1
+[14:09:38.032] [SEVERE ] player 1 placing token on slot 1
+[14:09:38.499] [SEVERE ] updating countdown to 54694
+[14:09:38.500] [SEVERE ] updating countdown to 54693
+[14:09:38.674] [SEVERE ] key 69 was pressed by player 1
+[14:09:38.674] [SEVERE ] player 1 placing token on slot 2
+[14:09:39.509] [SEVERE ] updating countdown to 53684
+[14:09:39.509] [SEVERE ] updating countdown to 53684
+[14:09:39.509] [SEVERE ] setting player 1 freeze to 3000
+[14:09:39.509] [INFO   ] thread dealer terminated.
+[14:09:44.522] [SEVERE ] thanks for playing... it was fun!
+[14:09:44.522] [INFO   ] thread main terminated.
+[14:09:44.522] [SEVERE ] disposing of user interface elements

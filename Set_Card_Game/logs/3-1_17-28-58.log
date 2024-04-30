@@ -1,0 +1,43 @@
+[17:28:58.673] [INFO   ] thread main starting.
+[17:28:58.680] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[17:28:58.682] [SEVERE ] configuration file was loaded from resources directory.
+[17:28:59.051] [INFO   ] thread dealer starting.
+[17:28:59.051] [INFO   ] thread dealer starting.
+[17:28:59.052] [SEVERE ] updating countdown to 60000
+[17:28:59.052] [INFO   ] thread Thread-0 starting.
+[17:28:59.052] [INFO   ] thread Thread-2 starting.
+[17:28:59.053] [INFO   ] thread Thread-1 starting.
+[17:28:59.053] [INFO   ] thread Thread-3 starting.
+[17:28:59.053] [INFO   ] thread computer-0 starting.
+[17:28:59.054] [INFO   ] thread computer-3 starting.
+[17:28:59.054] [INFO   ] thread computer-1 starting.
+[17:28:59.054] [INFO   ] thread computer-2 starting.
+[17:28:59.568] [SEVERE ] updating countdown to 59484
+[17:29:00.269] [SEVERE ] player 1 placing token on slot 8
+[17:29:00.269] [SEVERE ] player 2 placing token on slot 0
+[17:29:00.269] [SEVERE ] player 4 placing token on slot 2
+[17:29:00.269] [SEVERE ] player 3 placing token on slot 5
+[17:29:00.271] [SEVERE ] player 1 placing token on slot 0
+[17:29:00.272] [SEVERE ] removing player 1 token from slot 8
+[17:29:00.273] [SEVERE ] player 2 placing token on slot 7
+[17:29:00.273] [SEVERE ] player 4 placing token on slot 0
+[17:29:00.274] [SEVERE ] player 2 placing token on slot 3
+[17:29:00.273] [SEVERE ] player 3 placing token on slot 4
+[17:29:00.274] [SEVERE ] removing player 4 token from slot 2
+[17:29:00.274] [SEVERE ] removing player 3 token from slot 4
+[17:29:00.274] [SEVERE ] player 1 placing token on slot 5
+[17:29:00.276] [SEVERE ] player 4 placing token on slot 6
+[17:29:00.276] [SEVERE ] player 4 placing token on slot 9
+[17:29:00.276] [SEVERE ] player 3 placing token on slot 4
+[17:29:00.277] [SEVERE ] player 3 placing token on slot 1
+[17:29:00.277] [SEVERE ] player 1 placing token on slot 7
+[17:29:17.453] [SEVERE ] exit button pressed
+[17:29:17.453] [INFO   ] thread computer-0 terminated.
+[17:29:17.453] [SEVERE ] disposing of user interface elements
+[17:29:17.453] [INFO   ] thread computer-1 terminated.
+[17:29:17.453] [INFO   ] thread computer-2 terminated.
+[17:29:17.453] [INFO   ] thread computer-3 terminated.
+[17:29:17.453] [INFO   ] thread Thread-0 terminated.
+[17:29:17.454] [INFO   ] thread Thread-1 terminated.
+[17:29:17.454] [INFO   ] thread Thread-2 terminated.
+[17:29:17.454] [INFO   ] thread Thread-3 terminated.

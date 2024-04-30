@@ -1,0 +1,42 @@
+[14:31:22.863] [INFO   ] thread main starting.
+[14:31:22.873] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:31:22.878] [SEVERE ] configuration file was loaded from resources directory.
+[14:31:23.639] [INFO   ] thread dealer starting.
+[14:31:23.640] [INFO   ] thread dealer starting.
+[14:31:23.641] [SEVERE ] updating countdown to 60000
+[14:31:23.643] [INFO   ] thread Thread-1 starting.
+[14:31:23.643] [INFO   ] thread Thread-0 starting.
+[14:31:23.766] [SEVERE ] placing card 45 in slot 0
+[14:31:23.876] [SEVERE ] placing card 60 in slot 1
+[14:31:23.984] [SEVERE ] placing card 26 in slot 2
+[14:31:24.091] [SEVERE ] placing card 73 in slot 3
+[14:31:24.201] [SEVERE ] placing card 2 in slot 4
+[14:31:24.311] [SEVERE ] placing card 39 in slot 5
+[14:31:24.421] [SEVERE ] placing card 62 in slot 6
+[14:31:24.531] [SEVERE ] placing card 66 in slot 7
+[14:31:24.640] [SEVERE ] placing card 29 in slot 8
+[14:31:24.749] [SEVERE ] placing card 80 in slot 9
+[14:31:24.858] [SEVERE ] placing card 17 in slot 10
+[14:31:24.967] [SEVERE ] placing card 64 in slot 11
+[14:31:25.982] [SEVERE ] updating countdown to 57659
+[14:31:25.983] [SEVERE ] updating countdown to 57658
+[14:31:26.996] [SEVERE ] updating countdown to 56645
+[14:31:26.997] [SEVERE ] updating countdown to 56644
+[14:31:28.008] [SEVERE ] updating countdown to 55633
+[14:31:28.009] [SEVERE ] updating countdown to 55632
+[14:31:29.019] [SEVERE ] updating countdown to 54622
+[14:31:29.020] [SEVERE ] updating countdown to 54621
+[14:31:30.035] [SEVERE ] updating countdown to 53606
+[14:31:30.035] [SEVERE ] updating countdown to 53606
+[14:31:31.048] [SEVERE ] updating countdown to 52593
+[14:31:31.048] [SEVERE ] updating countdown to 52593
+[14:31:32.060] [SEVERE ] updating countdown to 51581
+[14:31:32.061] [SEVERE ] updating countdown to 51580
+[14:31:33.064] [SEVERE ] updating countdown to 50577
+[14:31:33.065] [SEVERE ] updating countdown to 50576
+[14:31:34.065] [SEVERE ] updating countdown to 49576
+[14:31:34.066] [SEVERE ] updating countdown to 49575
+[14:31:34.895] [SEVERE ] exit button pressed
+[14:31:34.895] [SEVERE ] disposing of user interface elements
+[14:31:34.895] [INFO   ] thread Thread-0 terminated.
+[14:31:34.895] [INFO   ] thread Thread-1 terminated.

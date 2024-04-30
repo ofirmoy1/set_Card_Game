@@ -1,0 +1,50 @@
+[18:30:53.816] [INFO   ] thread main starting.
+[18:30:53.824] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[18:30:53.825] [SEVERE ] configuration file was loaded from resources directory.
+[18:30:54.251] [INFO   ] thread dealer starting.
+[18:30:54.253] [INFO   ] thread dealer starting.
+[18:30:54.253] [INFO   ] thread Thread-1 starting.
+[18:30:54.253] [INFO   ] thread Thread-0 starting.
+[18:30:54.253] [SEVERE ] updating countdown to 60000
+[18:30:54.253] [INFO   ] thread Thread-2 starting.
+[18:30:54.253] [INFO   ] thread Thread-3 starting.
+[18:30:54.255] [INFO   ] thread computer-2 starting.
+[18:30:54.254] [INFO   ] thread computer-0 starting.
+[18:30:54.255] [INFO   ] thread computer-1 starting.
+[18:30:54.255] [INFO   ] thread computer-3 starting.
+[18:30:54.278] [SEVERE ] updating countdown to 59975
+[18:30:54.389] [SEVERE ] placing card 40 in slot 0
+[18:30:54.499] [SEVERE ] placing card 62 in slot 1
+[18:30:54.608] [SEVERE ] placing card 47 in slot 2
+[18:30:54.716] [SEVERE ] placing card 57 in slot 3
+[18:30:54.827] [SEVERE ] placing card 13 in slot 4
+[18:30:54.937] [SEVERE ] placing card 9 in slot 5
+[18:30:55.048] [SEVERE ] placing card 0 in slot 6
+[18:30:55.158] [SEVERE ] placing card 46 in slot 7
+[18:30:55.269] [SEVERE ] placing card 70 in slot 8
+[18:30:55.379] [SEVERE ] placing card 65 in slot 9
+[18:30:55.490] [SEVERE ] placing card 48 in slot 10
+[18:30:55.599] [SEVERE ] placing card 8 in slot 11
+[18:30:55.599] [SEVERE ] player 2 placing token on slot 9
+[18:30:55.599] [SEVERE ] player 1 placing token on slot 11
+[18:30:55.599] [SEVERE ] player 3 placing token on slot 4
+[18:30:55.599] [SEVERE ] player 4 placing token on slot 7
+[18:30:55.599] [SEVERE ] player 1 placing token on slot 9
+[18:30:55.599] [SEVERE ] player 2 placing token on slot 7
+[18:30:55.600] [SEVERE ] player 3 placing token on slot 3
+[18:30:55.600] [SEVERE ] player 4 placing token on slot 1
+[18:30:55.600] [SEVERE ] player 1 placing token on slot 3
+[18:30:55.600] [SEVERE ] player 2 placing token on slot 10
+[18:30:55.601] [SEVERE ] player 3 placing token on slot 9
+[18:30:55.601] [SEVERE ] player 4 placing token on slot 5
+[18:30:55.604] [SEVERE ] updating countdown to 58649
+[18:31:00.419] [SEVERE ] exit button pressed
+[18:31:00.419] [SEVERE ] disposing of user interface elements
+[18:31:00.419] [INFO   ] thread computer-3 terminated.
+[18:31:00.420] [INFO   ] thread Thread-3 terminated.
+[18:31:00.419] [INFO   ] thread computer-0 terminated.
+[18:31:00.419] [INFO   ] thread computer-1 terminated.
+[18:31:00.419] [INFO   ] thread computer-2 terminated.
+[18:31:00.421] [INFO   ] thread Thread-1 terminated.
+[18:31:00.421] [INFO   ] thread Thread-0 terminated.
+[18:31:00.421] [INFO   ] thread Thread-2 terminated.

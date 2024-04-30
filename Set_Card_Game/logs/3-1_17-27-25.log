@@ -1,0 +1,39 @@
+[17:27:25.868] [INFO   ] thread main starting.
+[17:27:25.875] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[17:27:25.877] [SEVERE ] configuration file was loaded from resources directory.
+[17:27:26.264] [INFO   ] thread dealer starting.
+[17:27:26.265] [INFO   ] thread dealer starting.
+[17:27:26.265] [SEVERE ] updating countdown to 60000
+[17:27:26.266] [INFO   ] thread Thread-0 starting.
+[17:27:26.267] [INFO   ] thread Thread-1 starting.
+[17:27:26.267] [INFO   ] thread Thread-2 starting.
+[17:27:26.267] [INFO   ] thread Thread-3 starting.
+[17:27:26.268] [INFO   ] thread computer-1 starting.
+[17:27:26.268] [INFO   ] thread computer-0 starting.
+[17:27:26.268] [INFO   ] thread computer-2 starting.
+[17:27:26.268] [INFO   ] thread computer-3 starting.
+[17:27:26.771] [SEVERE ] updating countdown to 59494
+[17:27:27.483] [SEVERE ] player 4 placing token on slot 8
+[17:27:27.483] [SEVERE ] player 2 placing token on slot 3
+[17:27:27.483] [SEVERE ] player 3 placing token on slot 0
+[17:27:27.483] [SEVERE ] player 1 placing token on slot 2
+[17:27:27.483] [SEVERE ] player 4 placing token on slot 2
+[17:27:27.483] [SEVERE ] player 2 placing token on slot 10
+[17:27:27.486] [SEVERE ] player 3 placing token on slot 6
+[17:27:27.486] [SEVERE ] player 1 placing token on slot 11
+[17:27:27.486] [SEVERE ] player 4 placing token on slot 6
+[17:27:27.486] [SEVERE ] player 2 placing token on slot 5
+[17:27:27.486] [SEVERE ] player 3 placing token on slot 3
+[17:27:27.486] [SEVERE ] removing player 1 token from slot 2
+[17:27:27.486] [SEVERE ] player 1 placing token on slot 2
+[17:27:27.486] [SEVERE ] player 1 placing token on slot 3
+[17:27:36.987] [SEVERE ] exit button pressed
+[17:27:36.988] [SEVERE ] disposing of user interface elements
+[17:27:36.988] [INFO   ] thread computer-1 terminated.
+[17:27:36.988] [INFO   ] thread computer-2 terminated.
+[17:27:36.988] [INFO   ] thread computer-0 terminated.
+[17:27:36.988] [INFO   ] thread computer-3 terminated.
+[17:27:36.989] [INFO   ] thread Thread-0 terminated.
+[17:27:36.988] [INFO   ] thread Thread-1 terminated.
+[17:27:36.988] [INFO   ] thread Thread-2 terminated.
+[17:27:36.989] [INFO   ] thread Thread-3 terminated.

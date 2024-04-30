@@ -1,0 +1,39 @@
+[14:07:11.713] [INFO   ] thread main starting.
+[14:07:11.719] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:07:11.721] [SEVERE ] configuration file was loaded from resources directory.
+[14:07:12.209] [INFO   ] thread dealer starting.
+[14:07:12.210] [INFO   ] thread dealer starting.
+[14:07:12.210] [SEVERE ] updating countdown to 60000
+[14:07:12.210] [INFO   ] thread Thread-0 starting.
+[14:07:12.210] [INFO   ] thread Thread-1 starting.
+[14:07:12.322] [SEVERE ] placing card 36 in slot 0
+[14:07:12.433] [SEVERE ] placing card 2 in slot 1
+[14:07:12.544] [SEVERE ] placing card 7 in slot 2
+[14:07:12.654] [SEVERE ] placing card 3 in slot 3
+[14:07:12.765] [SEVERE ] placing card 52 in slot 4
+[14:07:12.876] [SEVERE ] placing card 27 in slot 5
+[14:07:12.988] [SEVERE ] placing card 20 in slot 6
+[14:07:13.098] [SEVERE ] placing card 55 in slot 7
+[14:07:13.210] [SEVERE ] placing card 51 in slot 8
+[14:07:13.320] [SEVERE ] placing card 16 in slot 9
+[14:07:13.431] [SEVERE ] placing card 31 in slot 10
+[14:07:13.542] [SEVERE ] placing card 37 in slot 11
+[14:07:14.144] [SEVERE ] key 81 was pressed by player 1
+[14:07:14.145] [SEVERE ] player 1 placing token on slot 0
+[14:07:14.555] [SEVERE ] updating countdown to 57655
+[14:07:14.555] [SEVERE ] updating countdown to 57655
+[14:07:14.877] [SEVERE ] key 87 was pressed by player 1
+[14:07:14.878] [SEVERE ] player 1 placing token on slot 1
+[14:07:15.563] [SEVERE ] updating countdown to 56647
+[14:07:15.564] [SEVERE ] updating countdown to 56647
+[14:07:16.577] [SEVERE ] updating countdown to 55633
+[14:07:16.577] [SEVERE ] updating countdown to 55633
+[14:07:17.258] [SEVERE ] key 83 was pressed by player 1
+[14:07:17.259] [SEVERE ] player 1 placing token on slot 5
+[14:07:17.584] [SEVERE ] updating countdown to 54626
+[14:07:17.584] [SEVERE ] updating countdown to 54626
+[14:07:17.584] [SEVERE ] setting player 1 freeze to 3000
+[14:07:17.587] [INFO   ] thread dealer terminated.
+[14:07:22.601] [SEVERE ] thanks for playing... it was fun!
+[14:07:22.601] [INFO   ] thread main terminated.
+[14:07:22.601] [SEVERE ] disposing of user interface elements

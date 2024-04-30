@@ -1,0 +1,58 @@
+BONUS CHALLENGE FORM
+--------------------
+
+For each bonus challenge you have implemented, please replace the sentence "We are not entitled to this bonus."
+with a short description of:
+
+1. How it was implemented in your code
+2. Where it was used (in which class methods).
+3. How you tested that it is working correctly.
+
+--------------------
+
+1. Fully supporting all configuration fields and avoiding the use of magic numbers
+
+A.
+we simply used all of the varribles that were defined in the config file in each place that we needed to use them instead of using magic
+numbers, about the hints varrible we printed the hints to the console (using the hints method) in the placeCardsOnTable method,
+only if the table has changed and if the hints boolean was true 
+
+B. configurations like TurnTimeoutSeconds,TurnTimeoutWarningSeconds,PointFreezeSeconds,PenaltyFreezeSeconds were mostly used in
+updateTimerDisplay (dealer), sleepUntilWokenOrTimeout (dealer), point (dealer and player), penalty (dealer and player).
+hints was used in  placeCardsOnTable (dealer). TableDelaySeconds was used in placeCard and removeCard (table).
+
+C. we tested it by changing those values in the config properties file, and checking if the game's settings and ui were changed
+respectively.
+--------------------
+
+2. Terminating all threads (that you created) gracefully and in reverse order to the order they were created in.
+
+A. 
+we kept array of the threads of players that we'v created. and when need to terminate we called terminate method of player to interrupt ai thread and used join method to ensure the order of termination. and we interrupt the players one by one backwards and used join to ensure the order.
+
+B. 
+creating the threads - in the run of dealer
+terminating the threads - the terminate method of dealer called the terminate method of player that interrupted the thread.
+
+c.
+we checked in the log.
+--------------------
+
+3. Handling the config.turnTimeoutMillis value as follows:
+config.turnTimeoutMillis < 0: display nothing.
+config.turnTimeoutMillis = 0: display a timer since the last action (reshuffle or set collected).
+Note: in modes without a countdown timer the dealer must ensure there is always at least one legal set on the table.
+
+We are not entitled to this bonus.
+
+--------------------
+
+4. Making sure that the threads do not wake up unless some actual job needs to be done (e.g., a value needs to be
+changed on the display, key input needs to be handled, etc.) and the only threads created by you are:
+1 thread per player + 1 additional thread for non-human players.
+
+A.all the threads (dealers,player,ai) is sleeping until actual job needs to be done. and the only threads are those we created.
+player and ai are waiting for dealer to check their sets when a they choosed 3 cards and the dealear notify them after checkig.
+and the dealer is sleaping unless it needs to update the timer or check sets.we calculated the partial sleep duration to ensure that dealer sleep until the next time the timer should be update.
+B.in player and dealer calsses.
+C.tried to print the time before and after the threads are sleap.and used the debugers to check which thread created.

@@ -1,0 +1,41 @@
+[17:32:02.108] [INFO   ] thread main starting.
+[17:32:02.113] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[17:32:02.116] [SEVERE ] configuration file was loaded from resources directory.
+[17:32:02.477] [INFO   ] thread dealer starting.
+[17:32:02.478] [INFO   ] thread dealer starting.
+[17:32:02.478] [SEVERE ] updating countdown to 60000
+[17:32:02.478] [INFO   ] thread Thread-0 starting.
+[17:32:02.478] [INFO   ] thread Thread-1 starting.
+[17:32:02.479] [INFO   ] thread Thread-2 starting.
+[17:32:02.479] [INFO   ] thread Thread-3 starting.
+[17:32:02.479] [INFO   ] thread computer-1 starting.
+[17:32:02.479] [INFO   ] thread computer-0 starting.
+[17:32:02.480] [INFO   ] thread computer-2 starting.
+[17:32:02.480] [INFO   ] thread computer-3 starting.
+[17:32:02.992] [SEVERE ] updating countdown to 59486
+[17:32:03.693] [SEVERE ] player 4 placing token on slot 9
+[17:32:03.694] [SEVERE ] player 3 placing token on slot 4
+[17:32:03.694] [SEVERE ] player 1 placing token on slot 4
+[17:32:03.697] [SEVERE ] player 1 placing token on slot 9
+[17:32:03.697] [SEVERE ] player 1 placing token on slot 8
+[17:32:03.695] [SEVERE ] player 2 placing token on slot 3
+[17:32:03.698] [SEVERE ] player 2 placing token on slot 4
+[17:32:03.696] [SEVERE ] player 4 placing token on slot 10
+[17:32:03.696] [SEVERE ] player 3 placing token on slot 11
+[17:32:03.700] [SEVERE ] player 3 placing token on slot 10
+[17:32:03.700] [SEVERE ] removing player 2 token from slot 4
+[17:32:03.701] [SEVERE ] player 4 placing token on slot 3
+[17:32:03.702] [SEVERE ] removing player 2 token from slot 3
+[17:32:03.702] [SEVERE ] player 2 placing token on slot 11
+[17:32:03.703] [SEVERE ] player 2 placing token on slot 9
+[17:32:03.703] [SEVERE ] player 2 placing token on slot 4
+[17:32:11.169] [SEVERE ] exit button pressed
+[17:32:11.169] [INFO   ] thread computer-0 terminated.
+[17:32:11.169] [SEVERE ] disposing of user interface elements
+[17:32:11.169] [INFO   ] thread computer-1 terminated.
+[17:32:11.169] [INFO   ] thread computer-2 terminated.
+[17:32:11.169] [INFO   ] thread computer-3 terminated.
+[17:32:11.170] [INFO   ] thread Thread-0 terminated.
+[17:32:11.170] [INFO   ] thread Thread-3 terminated.
+[17:32:11.170] [INFO   ] thread Thread-1 terminated.
+[17:32:11.170] [INFO   ] thread Thread-2 terminated.

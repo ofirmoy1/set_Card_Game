@@ -1,0 +1,73 @@
+[14:20:13.033] [INFO   ] thread main starting.
+[14:20:13.033] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:20:13.049] [SEVERE ] configuration file was loaded from resources directory.
+[14:20:13.557] [INFO   ] thread dealer starting.
+[14:20:13.557] [INFO   ] thread dealer starting.
+[14:20:13.557] [SEVERE ] updating countdown to 60000
+[14:20:13.557] [INFO   ] thread Thread-0 starting.
+[14:20:13.557] [INFO   ] thread Thread-1 starting.
+[14:20:13.559] [INFO   ] thread computer-1 starting.
+[14:20:13.573] [SEVERE ] updating countdown to 59984
+[14:20:13.682] [SEVERE ] placing card 72 in slot 0
+[14:20:13.783] [SEVERE ] placing card 55 in slot 1
+[14:20:13.886] [SEVERE ] placing card 45 in slot 2
+[14:20:14.000] [SEVERE ] placing card 67 in slot 3
+[14:20:14.103] [SEVERE ] placing card 77 in slot 4
+[14:20:14.206] [SEVERE ] placing card 36 in slot 5
+[14:20:14.315] [SEVERE ] placing card 71 in slot 6
+[14:20:14.418] [SEVERE ] placing card 42 in slot 7
+[14:20:14.522] [SEVERE ] placing card 41 in slot 8
+[14:20:14.632] [SEVERE ] placing card 44 in slot 9
+[14:20:14.737] [SEVERE ] placing card 2 in slot 10
+[14:20:14.840] [SEVERE ] placing card 27 in slot 11
+[14:20:14.840] [SEVERE ] player 2 placing token on slot 10
+[14:20:14.840] [SEVERE ] player 2 placing token on slot 2
+[14:20:14.840] [SEVERE ] player 2 placing token on slot 5
+[14:20:14.863] [SEVERE ] updating countdown to 58694
+[14:20:15.876] [SEVERE ] updating countdown to 57681
+[14:20:15.876] [SEVERE ] setting player 2 freeze to 900
+[14:20:15.876] [SEVERE ] setting player 2 freeze to 0
+[14:20:15.876] [SEVERE ] updating countdown to 57681
+[14:20:15.876] [SEVERE ] removing player 2 token from slot 2
+[14:20:15.876] [SEVERE ] removing player 2 token from slot 10
+[14:20:15.876] [SEVERE ] player 2 placing token on slot 2
+[14:20:15.876] [SEVERE ] player 2 placing token on slot 1
+[14:20:15.891] [SEVERE ] updating countdown to 57666
+[14:20:15.899] [SEVERE ] setting player 2 freeze to 900
+[14:20:15.899] [SEVERE ] setting player 2 freeze to 0
+[14:20:15.899] [SEVERE ] updating countdown to 57658
+[14:20:15.907] [SEVERE ] removing player 2 token from slot 2
+[14:20:15.911] [SEVERE ] player 2 placing token on slot 10
+[14:20:15.911] [SEVERE ] updating countdown to 57646
+[14:20:15.918] [SEVERE ] setting player 2 freeze to 900
+[14:20:15.918] [SEVERE ] setting player 2 freeze to 0
+[14:20:15.918] [SEVERE ] updating countdown to 57639
+[14:20:15.918] [SEVERE ] removing player 2 token from slot 10
+[14:20:15.918] [SEVERE ] removing player 2 token from slot 5
+[14:20:15.918] [SEVERE ] player 2 placing token on slot 7
+[14:20:15.918] [SEVERE ] removing player 2 token from slot 1
+[14:20:15.918] [SEVERE ] player 2 placing token on slot 1
+[14:20:15.926] [SEVERE ] player 2 placing token on slot 6
+[14:20:15.926] [SEVERE ] updating countdown to 57631
+[14:20:15.927] [SEVERE ] setting player 2 freeze to 900
+[14:20:15.932] [SEVERE ] setting player 2 freeze to 0
+[14:20:15.932] [SEVERE ] updating countdown to 57625
+[14:20:16.935] [SEVERE ] updating countdown to 56622
+[14:20:16.935] [SEVERE ] updating countdown to 56622
+[14:20:17.941] [SEVERE ] updating countdown to 55616
+[14:20:17.941] [SEVERE ] updating countdown to 55616
+[14:20:18.954] [SEVERE ] updating countdown to 54603
+[14:20:18.954] [SEVERE ] updating countdown to 54603
+[14:20:19.969] [SEVERE ] updating countdown to 53588
+[14:20:19.969] [SEVERE ] updating countdown to 53588
+[14:20:20.977] [SEVERE ] updating countdown to 52580
+[14:20:20.977] [SEVERE ] updating countdown to 52580
+[14:20:21.984] [SEVERE ] updating countdown to 51573
+[14:20:21.984] [SEVERE ] updating countdown to 51573
+[14:20:22.991] [SEVERE ] updating countdown to 50566
+[14:20:22.991] [SEVERE ] updating countdown to 50566
+[14:20:23.006] [SEVERE ] exit button pressed
+[14:20:23.006] [SEVERE ] disposing of user interface elements
+[14:20:23.006] [INFO   ] thread Thread-0 terminated.
+[14:20:23.006] [INFO   ] thread computer-1 terminated.
+[14:20:23.006] [INFO   ] thread Thread-1 terminated.
